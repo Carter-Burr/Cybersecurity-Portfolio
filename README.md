@@ -1,2 +1,3 @@
-# Cybersecurity-Portfolio
-This is a portfolio intended to showcase the development of my cybersecurity skills and knowledge.
+# Cybersecurity-Portfolio Professional Statement
+
+As an aspiring cybersecurity professional, I am determined to safeguard digital spaces from malicious threats and protect vital information. My strengths lie in my analytical mindset and ability to problem solve in creative ways. While honing my technical skills of python and Linux, I strive to stay up-to-date with the latest industry advancements. I am committed to upholding strong ethical values, as well as ensure trust and confidentiality in all my endeavors throughout my security career. My passion for continuous learning drives me to embrace new challenges and contribute to a safer digital world for everyone. 
